@@ -1,0 +1,27 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Executa diariamente à meia-noite
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Baixar o repositório
+        uses: actions/checkout@v2
+
+      - name: Gerar cobrinha
+        uses: Platane/snk@v2
+        with:
+          github_user_name: seu-username
+          outputs: svg
+          
+      - name: Adicionar a cobrinha ao README
+        run: |
+          git config --global user.name 'seu-username'
+          git config --global user.email 'seu-email@exemplo.com'
+          git add .
+          git commit -m "Atualizar cobrinha"
+          git push
