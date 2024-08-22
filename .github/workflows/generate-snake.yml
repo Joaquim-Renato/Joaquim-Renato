@@ -15,13 +15,13 @@ jobs:
       - name: Gerar cobrinha
         uses: Platane/snk@v2
         with:
-          github_user_name: seu-username
+          github_user_name: Joaquim-Renato
           outputs: svg
           
       - name: Adicionar a cobrinha ao README
         run: |
-          git config --global user.name 'seu-username'
-          git config --global user.email 'seu-email@exemplo.com'
+          git config --global user.name 'Joaquim-Renato'
+          git config --global user.email 'https://github.com/Joaquim-Renato/Joaquim-Renato.git'
           git add .
           git commit -m "Atualizar cobrinha"
           git push
