@@ -52,4 +52,4 @@ Here are some ideas to get you started:
    ## GitHub Snake
    
  ![GitHub Snake](https://github.com/Joaquim-Renato/Joaquim-Renato/blob/output/github-contribution-grid-snake.svg)
-    
+    </div> 
