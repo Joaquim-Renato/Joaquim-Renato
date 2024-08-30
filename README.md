@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 </div> 
          
    ## 
-                               
+  <div>
  ![GitHub Snake](https://github.com/Joaquim-Renato/Joaquim-Renato/blob/output/github-contribution-grid-snake.svg)
     
   </div>
