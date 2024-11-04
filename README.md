@@ -53,7 +53,7 @@ Here are some ideas to get you started:
    <picture>
      <img
     alt="github contribution grid snake animation"
-    src="https://github.com/Joaquim-Renato/Joaquim-Renato/blob/output/github-contribution-grid-snake.svg"
+        src="https://raw.githubusercontent.com/Joaquim-Renato/Joaquim-Renato/output/github-contribution-grid-snake.svg"
   />
 </picture>
 
