@@ -18,9 +18,7 @@ Here are some ideas to get you started:
 <div style="display: inline_block"><br>
   <img  align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img  align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
-
-  <img width="center" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img  width="center" src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img  align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
   <img  align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
   <img  align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
